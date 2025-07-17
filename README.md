@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Rasviy!
 
-<!--
-**Rasviy/Rasviy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Digital Marketing graduate and aspiring developer.
+🚀 Currently working on web projects with PHP, Laravel, Tailwind CSS, and Vite.
+🎯 My goal is to earn 2 billion IDR by the age of 25.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 💻 [Sistem Pelaporan Pelanggaran Siswa SMK Wikrama](#)
+- 📦 [Laravel Role-Based To Do List](#)
+- 🎨 [Interactive Web Learning - Belajar Web Keren](#)
+- 🧾 [POS System with Barcode](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+`HTML` `CSS` `JavaScript` `Laravel` `PHP` `Tailwind CSS` `Vite` `Git & GitHub`
+
+## 📫 Let's Connect!
+- 💼 LinkedIn: [linkedin.com/in/rasviy](#)
+- 🌐 Portfolio: [rasviy.dev](#) *(kalau punya)*
+
+![Rasviy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rasviy&show_icons=true&theme=tokyonight)
