@@ -1,8 +1,4 @@
-<h1 align="center">✨ Hi there, I'm Rasviy! ✨</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Digital+Marketer+%2F+Web+Developer;Freelance+Social+Media+Manager;Dreaming+of+2B+IDR+by+25+🚀;Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+<h1 align="center">✨ I'm Rasvyy ak Justin ✨</h1>
 
 ---
 
